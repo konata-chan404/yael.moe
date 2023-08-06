@@ -1,15 +1,16 @@
 Welcome to
+``` Cat napping with a sign saying yael.moe
        |\      _,,,---,,_          /--------------/
    ZZZzz /,`.-'`'    -.  ;--\,_   /   yael.moe   /
       |,4-  ) )-,_. ,\ (  `` -'  / -------------/
      '---''(_/--'  `-'\_)
-
+```
 
 This is my cozy space on the internet.
 
 => /about.gmi About me
 
-
+```Flower garden with a poem written next to it: "If I had a flower for each time I thoguht of you, my garden would be full".
                        `::`
                         /
                        `    `;:`
@@ -21,3 +22,4 @@ This is my cozy space on the internet.
 (\|/)~Y~\|/    `>|/ <` \Y/\|~Y~ \|/ (\|/)               would be full...
  \|//\|/\|//    `||/`  \|/\|\|/\\|//\\|//
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+```
