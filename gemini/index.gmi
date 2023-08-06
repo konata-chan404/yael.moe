@@ -1,5 +1,23 @@
-## Yael's gemcapsule
-nya~
-this is a work in progress
+Welcome to
+       |\      _,,,---,,_          /--------------/
+   ZZZzz /,`.-'`'    -.  ;--\,_   /   yael.moe   /
+      |,4-  ) )-,_. ,\ (  `` -'  / -------------/
+     '---''(_/--'  `-'\_)
 
-=> /img/cat.jpg this is me (black mischievous cat)
+
+This is my cozy space on the internet.
+
+=> /about.gmi About me
+
+
+                       `::`
+                        /
+                       `    `;:`
+    _          .;:;          /
+  _(_)_        ::;       wWWWw  ,,,     _
+ (_)@(_),,,  _ ';:;;'    (___) {{{}}  _(_)_
+  /(_) {{{}} >'. ||  _    ~Y~   ~Y~  (_)@(_)   If I had a flower for each time
+  |  {{}~Y~  `> \||.'< (@)\|{}} \|/   /(_)       I thought of you, my garden
+(\|/)~Y~\|/    `>|/ <` \Y/\|~Y~ \|/ (\|/)               would be full...
+ \|//\|/\|//    `||/`  \|/\|\|/\\|//\\|//
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
