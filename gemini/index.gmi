@@ -26,4 +26,4 @@ This is my cozy space on the internet.
 ```
 
 
-=> /img/favicon.ico they're reading
+=> /img/glenda.png they're reading
