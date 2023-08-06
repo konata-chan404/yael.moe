@@ -1,5 +1,10 @@
+@font-face {
+    font-family: tewi;
+    src: url("/fonts/tewi.ttf");
+}
+
 html {
-    font-family: sans-serif;
+    font-family: tewi;
     color: #a9bd91;
     background-color: #05130c;
 }
@@ -48,6 +53,7 @@ pre {
     margin: 0 -1rem;
     padding: 1rem;
     overflow-x: auto;
+    font-family: tewi;
 }
 
 details {
@@ -82,10 +88,12 @@ dl dt:not(:first-child) {
     }
 
     pre {
+        font-family: tewi;
+
     }
 
     a {
-        color: #43b57a        ;
+        color: #43b57a;
     }
 
     a:visited {
@@ -104,12 +112,12 @@ input {
     border: 1px solid #888;
     padding: .375rem;
     line-height: 1.25rem;
-    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
     width: 100%;
 }
 
 input:focus {
     outline: 0;
     border-color: #80bdff;
-    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, .25);
 }
