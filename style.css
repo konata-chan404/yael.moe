@@ -1,6 +1,7 @@
 html {
     font-family: sans-serif;
-    color: #060d2d;
+    color: #a9bd91;
+    background-color: #05130c;
 }
 
 body {
@@ -31,11 +32,12 @@ li:not(:last-child) {
 
 a {
     position: relative;
+    color: #43b57a;
 }
 
 a:before {
     content: '⇒';
-    color: #999;
+    color: #24774c;
     text-decoration: none;
     font-weight: bold;
     position: absolute;
@@ -48,6 +50,10 @@ pre {
     overflow-x: auto;
 }
 
+details::open {
+    color: #24774c
+}
+
 details:not([open]) summary,
 details:not([open]) summary a {
     color: #24774c;
@@ -55,7 +61,6 @@ details:not([open]) summary a {
 
 details summary a:before {
     display: none;
-    color: #24774c
 }
 
 dl dt {
