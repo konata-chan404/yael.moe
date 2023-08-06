@@ -50,7 +50,7 @@ pre {
     overflow-x: auto;
 }
 
-details::open {
+details {
     color: #24774c
 }
 
