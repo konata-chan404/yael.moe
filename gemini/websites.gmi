@@ -1,22 +1,24 @@
-## Indie Web
-The internet is such a cozy and comfy place (when not under tech autocracy), I love the *inter*conectivity of sharing passion and knowledge.
-Here are some websites I personally enjoy
+=> yael.moe Hosted on yael.moe
 
-## http
-=>
+## Indie Web
+The internet is such a cozy and comfy place (when not under tech autocracy), I love the inter-conectivity of sharing passion and knowledge. Here are some websites I personally enjoy
+
+## HTTP
+=> https://dataswamp.org/~solene/ Solene's blog
+One of my favorite technology related blogs, OpenBSD and Nix and many more. Also available on Gopher/Gemini.
 => https://n0.lol/ netspooky's site
 Great work on fun low level projects.
 => http://www.phonography.org/ phonography.org
 An archive detailing the art of Phonography and Field Recording, it's not so up to date but ever so endearing.
 
-## gopher
+## Gopher
 => gopher://gopher.club/1/users/nm03 nm03's gopher hole
-Relaxing gopher hole detailing life in Tokyo, one of my inspirations on the dialy life.
+Relaxing gopher hole detailing life in Tokyo, one of my inspirations on the daily..
 => gopher://gopher.club/1/users/ldbeth ldbeth's phlog
 (LAMBDA (G) (LAMBDA (H) ((F (G G)) H)))
 => gopher://gopher.club/1/users/nm03 zoerhoff's gopher hole
 A weird mix of cycling, semiconductors and fun bunch.
 
-## gemini
+## Gemini
 => gemini://misbanal.net Willow's blog
 Good mix of FOSS development and relaxing life updates. 
