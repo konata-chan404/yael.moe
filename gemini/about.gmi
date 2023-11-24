@@ -1,12 +1,12 @@
 => / Hosted on yael.moe
 
-My name is Yael, I'm an 18 years old girl from Israel ~ I'm an avid supporter of communistic ideals, FOSS, cats, music and cybersec.
+My name is Yael, I'm an 18 years old girl from Israel ~ I'm an avid fan of computers, FOSS, cats, music, anarchist ideals and cybersec.
 
 -------------------------------------------------------------
 
-Email:   contact@yael.moe
+Email:   contact ( at ) yael.moe
 Matrix:  @yael:catgirl.cloud
-=> https://github.com/yael333 Github: yael333
+Github: yael333
 
 ```Four ghosts
                       .-.
