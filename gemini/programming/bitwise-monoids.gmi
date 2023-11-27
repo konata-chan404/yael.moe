@@ -1,7 +1,7 @@
 # Semigroups and Monoids with Haskell: Short Overview
 26/11/23
 
-A big part of my FP intuition and ideals comes from the "Curry–Howard correspondence", the catchphrase "Propositions as Types" and "Proofs as Programs" speaks to my prior experience which mostly falls under comptutational calculi and interest in formal logic. The notion that programming can be founded on concepts from logic is something that speaks volumes to me
+A big part of my FP intuition and ideals comes from the "Curry–Howard correspondence", the catchphrases "Propositions as Types" and "Proofs as Programs" speaks to my prior experience which mostly falls under comptutational calculi and interest in formal logic. The notion that programming can be founded on concepts from logic is something that speaks volumes to me
 Some people assert this isomorphism has a third sector - a profound relation to Category Theory layed down by the Mathematician Joachim Lambek, extending said equivelence to the "Curry–Howard-Lambek correspondence". Whether or not this holds a fundemetal truth I've yet to learn, but I believe defining and working with *structure* as an abstract is something that is important. So here I am studying Category Theory :3
 
 Dumb tangent aside, this article details my first experimentations with categories in Haskell.
