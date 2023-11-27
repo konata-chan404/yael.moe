@@ -1,5 +1,5 @@
 Welcome to
-``` Cat napping with a sign saying yael.moe
+```ASCI Cat napping with a sign saying yael.moe
        |\      _,,,---,,_          /--------------/
    ZZZzz /,`.-'`'    -.  ;--\,_   /   yael.moe   /
       |,4-  ) )-,_. ,\ (  `` -'  / -------------/
@@ -15,7 +15,7 @@ This is my cozy space on the internet~
 => websites.gmi Other websites I enjoy
 => programming/index.gmi Programming
 
-```Flower garden with a poem written next to it: "If I had a flower for each time I thoguht of you, my garden would be full".
+```ASCI Flower garden with a poem written next to it: "If I had a flower for each time I thoguht of you, my garden would be full".
                        `::`
                         /
                        `    `;:`
