@@ -13,6 +13,7 @@ This is my cozy space on the internet~
 
 => server.gmi Server's setup
 => websites.gmi Other websites I enjoy
+=> programming/index.gmi Programming
 
 ```Flower garden with a poem written next to it: "If I had a flower for each time I thoguht of you, my garden would be full".
                        `::`

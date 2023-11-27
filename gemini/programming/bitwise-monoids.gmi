@@ -1,0 +1,108 @@
+# Semigroups and Monoids with Haskell: Short Overview
+26/11/23
+
+A big part of my FP intuition and ideals comes from the "Curry–Howard correspondence", the catchphrase "Propositions as Types" and "Proofs as Programs" speaks to my prior experience which mostly falls under comptutational calculi and interest in formal logic. The notion that programming can be founded on concepts from logic is something that speaks volumes to me
+Some people assert this isomorphism has a third sector - a profound relation to Category Theory layed down by the Mathematician Joachim Lambek, extending said equivelence to the "Curry–Howard-Lambek correspondence". Whether or not this holds a fundemetal truth I've yet to learn, but I believe defining and working with *structure* as an abstract is something that is important. So here I am studying Category Theory :3
+
+Dumb tangent aside, this article details my first experimentations with categories in Haskell.
+
+## Defining Semigroups and Monoids
+Among the first categories that seem relevant to programming are Semigroups and Monoids. Both define an algebraic structure that consists of a set, an associative internal binary operation - Monoids also require for there to be an identity element. 
+Positive integers under addition form a semigroup, include 0 and it becomes a Monoid :3
+
+Semigroups are defined as a typeclass in Haskell, in order for any dataype a to be a Semigroup we have to satisfy a single Semigroup law: The binary operation <> must be associative
+
+```
+    (a <> b) <> c == a <> (b <> c)
+```
+
+Monoids are also defined as a typeclass, but instances of it must obey an additional rule: there exists an identity element `mempty` for which x <> mempty = x and mempty <> x = x.
+
+```Haskell code that defines Semigroups and Monoids
+class Semigroup m where
+    (<>) :: a -> a -> a
+
+
+class Semigroup m => Monoid m where
+  mempty :: m
+```
+An important Monoid in haskell would be lists under concatention, never knew something so trivial could be really interesting.
+
+```Haskell List Concat Monoid
+instance Semigroup [a] where
+  (<>) = (++)
+
+instance Monoid [a] where
+  mempty = []
+```
+
+
+## Data.Bits under Bitwise Operations
+Seeing how essential and common these two structures are for programming I immediately looked for any examples that I'm familiar with ~> the first being bits under several of the bitwise operations. Most programmers have used bitwise AND, OR and XOR before and I personally found it surprising to know they fall under the Semigroup cateegory. To be exact, bitwise AND and OR are actually monoids since there exists an identity element for both of them, you should try figuring it out :3
+
+Going through all of that got me excited to represent these operations as these categorical strucutre. Here's the type implementation I came up with:
+
+```Haskell Code that defines Bitwise AND, OR, and XOR as Semigroups and Monoids
+{-# LANGUAGE GeneralizedNewtypeDeriving #-}
+
+module Data.Bits.Extra where
+
+import Data.Bits
+  ( Bits (..),
+    FiniteBits (..),
+  )
+
+-- | Monoid under bitwise AND.
+newtype And a = And a
+  deriving (Eq, Bounded, Enum, Bits, FiniteBits, Show)
+
+instance (Bits a) => Semigroup (And a) where
+  (And x) <> (And y) = And (x .&. y)
+
+instance (Bits a) => Monoid (And a) where
+  mempty = And . complement $ zeroBits
+
+-- | Monoid under bitwise OR.
+newtype Or a = Or a
+  deriving (Eq, Bounded, Enum, Bits, FiniteBits, Show)
+
+instance (Bits a) => Semigroup (Or a) where
+  (Or x) <> (Or y) = Or (x .|. y)
+
+instance (Bits a) => Monoid (Or a) where
+  mempty = Or zeroBits
+
+-- | Semigroup under bitwise XOR.
+newtype Xor a = Xor a
+  deriving (Eq, Bounded, Enum, Bits, FiniteBits, Show)
+
+instance (Bits a) => Semigroup (Xor a) where
+  (Xor x) <> (Xor y) = Xor (x `xor` y)
+```
+
+Let's try to run this code in the REPL and verify it works
+
+```GHCI REPL
+λ> :info Or
+type Or :: * -> *
+newtype Or a = Or a
+        -- Defined at bitwise.hs:21:1
+instance Bits a => Bits (Or a) -- Defined at bitwise.hs:22:32
+instance Bounded a => Bounded (Or a)
+  -- Defined at bitwise.hs:22:17
+instance Enum a => Enum (Or a) -- Defined at bitwise.hs:22:26
+instance Eq a => Eq (Or a) -- Defined at bitwise.hs:22:13
+instance FiniteBits a => FiniteBits (Or a)
+  -- Defined at bitwise.hs:22:38
+instance Bits a => Monoid (Or a) -- Defined at bitwise.hs:27:10      | These are particularly 
+instance Bits a => Semigroup (Or a) -- Defined at bitwise.hs:24:10   | Important :3
+instance Show a => Show (Or a) -- Defined at bitwise.hs:22:50
+λ> Or 5
+Or 5
+λ> Or 5 <> mempty
+Or 5
+λ> Or 5 <> Or 3 
+Or 7 
+```
+
+Yipee~! I repeated this process on the two other operations and it worked as well. This is really cool, real real cool I mumbled to myself thinking what useful applications this representation has to offer (since it's really just a wrapper). I'm not sure yet But I'm sure at some point of my journey I'll found out~
