@@ -21,8 +21,8 @@ This blog is hosted on HTTP/Gemini/Gopher on yael.moe running OpenBSD
 
 
 ## Frens
-=> tzlil.net λ tzlil.net λ
-=> laevos.com laevos.com
+=> https://tzlil.net λ tzlil.net λ
+=> https://laevos.com laevos.com
 Write me if you'd like to be added :3 
 
 ```ASCII-BLOCK Books
