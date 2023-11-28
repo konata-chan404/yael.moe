@@ -6,51 +6,40 @@
      '---''(_/--'  `-'\_)
 ```
 Hi I'm Yael, and this is my cozy space on the internet~ 
-I'm an REDACTED years old girl from Israel ⋆⁺₊⋆ ☾⋆⁺₊⋆ I'm an avid fan of computers, FOSS, cats, music, anarchist (and sometimes commie) ideals, cybersec and some other things as well.
+I'm an REDACTED years old girl from Israel ⋆⁺₊⋆ ☾⋆⁺₊⋆
+an avid fan of computers, FOSS, cats, music, anarchist (and sometimes commie) ideals, cybersec and some other things as well.
 
-## Contact  
+### Contact  
 Email:   contact ( at ) yael.moe
 Matrix:  @yael:catgirl.cloud
 Github: yael333
 
-## This Space
-This blog is hosted on HTTP/Gemini/Gopher on yael.moe
+### This Space
+This blog is hosted on HTTP/Gemini/Gopher on yael.moe running OpenBSD
 => programming/computers.gmi computers 
 
-## Frens
+### Frens
 => tzlil.net λ tzlil.net λ
 => laevos.com laevos.com
 Write me if you'd like to be added :3 
 
 ```ASCII-BLOCK
-　　　　　　　 　 ,...:::''"~￣:::`‐‐-....、
-　　　　　　　／:::::::::::;;;;;;;;;;;;;;;;;::::::::::::::`ヽ、
-　　 　 　 ／:::::;ィ≦=＝＝＝=ミxi:::ヾ::::::ヽ
-　　　　 /::::::／::::::::::::::i:::::::::::i::::::::`i:::::::ﾞ;:::::::ﾍ
-　　 　 /::::::/:::::/:::::::::::i:::i:::::::i:::::::::::!::i:::::i::::::::ﾊ
-　　　 i:::::::::i::::-i‐‐-／i:::i:::::::i:::-‐‐i-i::::::i::::::::::i
-　　　j!:::::::::i:::i从::::/　 i:::ﾄ､:::ﾄjヽ::::i:::i::::::i::::::::::}
-　　　i:::::::::人iｨ≧=ミ　ヾi　V孑=ミx::!:::::i:::::::::j!
-　　　i::::::::::::i `り|俐　　　 　 り||俐`i:::::j-､:::/
-　　　 !:::::::::ﾊ 弋;;;ｼ　　 　 　 ゞ::シi::i:::/　}::/
-　　　 i:::::::::i::につ 　 　 　 　 ⊂ニi:j::/_ノ::/
-　　 　 V::::::i:::` - ...__　　-＿,,....＜jノ_r､::::{
-　　　　 ﾞ､:::::i/::::::;.ﾍr笊jﾊ!::: ﾄｧﾍﾉf'"⌒}:λ
-　　　　　 ＼i::::::〈: .:〔三:[}:三〕.: .:/f:::::::ﾉ:::::ﾞ､
-　　　　 ／:::::::::::::ﾄ、:∨:∧∨: .:/ ﾞﾄイ::〉::::::::ﾞ､
-　　　 ,:':::::::::::／::i　ﾞ､/:ムﾑ:ﾞ､/i、　 「ｲ:::::::::::::＼
-　　 ,:':::::::/:::/:::::ﾉ　j〈:/　}　ﾞ､:〉{::ヽ､_/:::::::::::::::::::::＼
-　　/::::::/:::/{:::/　／　 　j　　　ヾ:::::::::::::＼:::::::＼::＼ミ=-
-　 /::::::/::/　i/ﾍ/7､　　∧　 　 /:ヾ^ ＼::::ヾ､::::::＼::ヽ
-　 {:::::/i/ ,,くﾐr<.;,_:∧　/:l.:ﾄ、 ∧_,;.＞┐＼} ＼＼::::ﾊ
-　 i:::/ 　 ﾚ7ｧﾄ<､_｀''∨-～‐∨「_r‐Lfﾞ　　 　 　＼ﾄ::::}
-　 i/　　　~`" /:～7j>～ｧr～''<{ {～''}　　　　 　 　 )j
-　　　　　　 　 {:::／ i>:::::i　ﾞ;::::::込 ＼::j
-　　　　　　　　　 　 {>:::::{　 ﾞ;:::::::<i
-　　　　　　　　　　　i>::::::i　　!::::::<i
-　　 　 　 　 　 　 　 i>::::人　 }::::::<!
-　　　　　　　　　 　 弋:::::::::〉 j::::::::ﾉ
-　　　　　　　　　　　　 ｀"ﾞ´　`''''"
+　　　　　　 _,,. -／ヽ._
+　　　 ,. '"´　／__＠ ', ｀':,　　　　　　　__
+　　,:'´　 _rｧ'-‐'ｧ;'￣｀ヾ7'-､　　　 ,.:'´
+　　!. _rｧ'ｲ /-/‐!　ﾊ!_/l　Y〉　　,.'´　げ
+　 r'く ﾉﾍﾚ'-‐'‐ レ' 」_`ﾚi,(　　 ﾉ　　ふ
+　 'Y　 i ,ﾊ"　　 ____　 ,,!ﾊ　,. -'　 　っ
+　　k-､! ! ﾄ.､,　i´　ﾉ ,.ｲ ∠.,__,.-､.,__　 __ノ´
+　 ﾉ´,ﾊ./＞イi｀ﾆ7i´､_ﾊ'」　　 ___
+　〈ﾍ./ri､__rﾍ'ヽ,_/ﾑ!ヾ,ｨr-､　l／　　　 i
+　　　 .',-‐'"Yゝ'-rｧ-'､! ｀ヽ_)　＜]　　ノ!
+　　　 ｒゝ,'"´'´ 　i/ｰ‐'}_>'く_!　　　　（_ノ
+　　　 .〉::::>r--‐┘" 　.}{　 ,ﾊ､
+　　　└ｧ'Y　　ゝ-‐- ､,}{. ｲ 　`ｧ､_
+　　　 く:::ﾝ'　 ´　　　___ヽ!' 　 _i/7`':､
+　　　 rく /∠__,.ｨ7´,.-ヽ!_,.ｨ'ンｰ'ｰ‐'
+　　　 `ｰ'＾'ｰ＾'ｰ`'へ､_,_!
 ```
 
 ## 
