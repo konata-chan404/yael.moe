@@ -123,4 +123,4 @@ This is really awesome to me, from these abstractions we can derive so many of t
 
 => https://wiki.haskell.org/Data.Semigroup [1] HaskellWiki/Semigroup
 => https://wiki.haskell.org/Monoid [2] HaskellWiki/Monoid
->= https://hackage.haskell.org/package/base-4.19.0.0/docs/src/Data.Bits.html#And [3] Data.bits implemention
+=> https://hackage.haskell.org/package/base-4.19.0.0/docs/src/Data.Bits.html#And [3] Data.bits implemention
