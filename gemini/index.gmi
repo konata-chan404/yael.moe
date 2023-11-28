@@ -9,16 +9,18 @@ Hi I'm Yael, and this is my cozy space on the internet~
 I'm an REDACTED years old girl from Israel ⋆⁺₊⋆ ☾⋆⁺₊⋆
 an avid fan of computers, FOSS, cats, music, anarchist (and sometimes commie) ideals, cybersec and some other things as well.
 
-### Contact  
+## Contact  
 Email:   contact ( at ) yael.moe
 Matrix:  @yael:catgirl.cloud
 Github: yael333
 
-### This Space
+
+## This Space
 This blog is hosted on HTTP/Gemini/Gopher on yael.moe running OpenBSD
 => programming/computers.gmi computers 
 
-### Frens
+
+## Frens
 => tzlil.net λ tzlil.net λ
 => laevos.com laevos.com
 Write me if you'd like to be added :3 
