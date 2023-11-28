@@ -1,4 +1,0 @@
-=> / Hosted on yael.moe
-
-This is very first self-hosted services on a server I own. It's currently running OpenBSD hosting this very website through HTTP/S, Gopher and Gemini.
-Whenever I'll do more with it I'll update this page.
