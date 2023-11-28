@@ -1,19 +1,59 @@
-Welcome to
+## Welcome to
 ```ASCII-BLOCK Cat napping with a sign saying yael.moe
        |\      _,,,---,,_          /--------------/
    ZZZzz /,`.-'`'    -.  ;--\,_   /   yael.moe   /
       |,4-  ) )-,_. ,\ (  `` -'  / -------------/
      '---''(_/--'  `-'\_)
 ```
+Hi I'm Yael, and this is my cozy space on the internet~ 
+I'm an REDACTED years old girl from Israel ⋆⁺₊⋆ ☾⋆⁺₊⋆ I'm an avid fan of computers, FOSS, cats, music, anarchist (and sometimes commie) ideals, cybersec and some other things as well.
 
+## Contact  
+Email:   contact ( at ) yael.moe
+Matrix:  @yael:catgirl.cloud
+Github: yael333
 
-This is my cozy space on the internet~
+## This Space
+This blog is hosted on HTTP/Gemini/Gopher on yael.moe
+=> programming/computers.gmi computers 
 
-=> about.gmi About me
+## Frens
+=> tzlil.net λ tzlil.net λ
+=> laevos.com laevos.com
+Write me if you'd like to be added :3 
 
-=> server.gmi Server's setup
-=> websites.gmi Other websites I enjoy
-=> programming/index.gmi Programming
+```ASCII-BLOCK
+　　　　　　　 　 ,...:::''"~￣:::`‐‐-....、
+　　　　　　　／:::::::::::;;;;;;;;;;;;;;;;;::::::::::::::`ヽ、
+　　 　 　 ／:::::;ィ≦=＝＝＝=ミxi:::ヾ::::::ヽ
+　　　　 /::::::／::::::::::::::i:::::::::::i::::::::`i:::::::ﾞ;:::::::ﾍ
+　　 　 /::::::/:::::/:::::::::::i:::i:::::::i:::::::::::!::i:::::i::::::::ﾊ
+　　　 i:::::::::i::::-i‐‐-／i:::i:::::::i:::-‐‐i-i::::::i::::::::::i
+　　　j!:::::::::i:::i从::::/　 i:::ﾄ､:::ﾄjヽ::::i:::i::::::i::::::::::}
+　　　i:::::::::人iｨ≧=ミ　ヾi　V孑=ミx::!:::::i:::::::::j!
+　　　i::::::::::::i `り|俐　　　 　 り||俐`i:::::j-､:::/
+　　　 !:::::::::ﾊ 弋;;;ｼ　　 　 　 ゞ::シi::i:::/　}::/
+　　　 i:::::::::i::につ 　 　 　 　 ⊂ニi:j::/_ノ::/
+　　 　 V::::::i:::` - ...__　　-＿,,....＜jノ_r､::::{
+　　　　 ﾞ､:::::i/::::::;.ﾍr笊jﾊ!::: ﾄｧﾍﾉf'"⌒}:λ
+　　　　　 ＼i::::::〈: .:〔三:[}:三〕.: .:/f:::::::ﾉ:::::ﾞ､
+　　　　 ／:::::::::::::ﾄ、:∨:∧∨: .:/ ﾞﾄイ::〉::::::::ﾞ､
+　　　 ,:':::::::::::／::i　ﾞ､/:ムﾑ:ﾞ､/i、　 「ｲ:::::::::::::＼
+　　 ,:':::::::/:::/:::::ﾉ　j〈:/　}　ﾞ､:〉{::ヽ､_/:::::::::::::::::::::＼
+　　/::::::/:::/{:::/　／　 　j　　　ヾ:::::::::::::＼:::::::＼::＼ミ=-
+　 /::::::/::/　i/ﾍ/7､　　∧　 　 /:ヾ^ ＼::::ヾ､::::::＼::ヽ
+　 {:::::/i/ ,,くﾐr<.;,_:∧　/:l.:ﾄ、 ∧_,;.＞┐＼} ＼＼::::ﾊ
+　 i:::/ 　 ﾚ7ｧﾄ<､_｀''∨-～‐∨「_r‐Lfﾞ　　 　 　＼ﾄ::::}
+　 i/　　　~`" /:～7j>～ｧr～''<{ {～''}　　　　 　 　 )j
+　　　　　　 　 {:::／ i>:::::i　ﾞ;::::::込 ＼::j
+　　　　　　　　　 　 {>:::::{　 ﾞ;:::::::<i
+　　　　　　　　　　　i>::::::i　　!::::::<i
+　　 　 　 　 　 　 　 i>::::人　 }::::::<!
+　　　　　　　　　 　 弋:::::::::〉 j::::::::ﾉ
+　　　　　　　　　　　　 ｀"ﾞ´　`''''"
+```
+
+## 
 
 ```ASCII-BLOCK Flower garden with a poem written next to it: "If I had a flower for each time I thoguht of you, my garden would be full".
                        `::`
