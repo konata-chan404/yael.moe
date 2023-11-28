@@ -10,14 +10,14 @@ I'm an REDACTED years old girl from Israel ⋆⁺₊⋆ ☾⋆⁺₊⋆
 an avid fan of computers, FOSS, cats, music, anarchist (and sometimes commie) ideals, cybersec and some other things as well.
 
 ## Contact  
-Email:   contact ( at ) yael.moe
-Matrix:  @yael:catgirl.cloud
+Email:  contact ( at ) yael.moe
+Matrix: @yael:catgirl.cloud
 Github: yael333
 
 
 ## This Space
 This blog is hosted on HTTP/Gemini/Gopher on yael.moe running OpenBSD
-=> programming/computers.gmi computers 
+=> computers/index.gmi computers 
 
 
 ## Frens
@@ -37,19 +37,5 @@ Write me if you'd like to be added :3
 |  |===|--|   \.'\|===|~|--|%%|~~~|--|
 ^--^---'--^    `-'`---^-^--^--^---'--'
 ```
-```ASCII-BLOCK Flower garden with a poem written next to it: "If I had a flower for each time I thoguht of you, my garden would be full".
-                       `::`
-                        /
-                       `    `;:`
-    _          .;:;          /
-  _(_)_        ::;       wWWWw  ,,,     _
- (_)@(_),,,  _ ';:;;'    (___) {{{}}  _(_)_
-  /(_) {{{}} >'. ||  _    ~Y~   ~Y~  (_)@(_)   If I had a flower for each time
-  |  {{}~Y~  `> \||.'< (@)\|{}} \|/   /(_)       I thought of you, my garden
-(\|/)~Y~\|/    `>|/ <` \Y/\|~Y~ \|/ (\|/)               would be full...
- \|//\|/\|//    `||/`  \|/\|\|/\\|//\\|//
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-```
-
 
 => /images/glenda_reading.png they're reading
