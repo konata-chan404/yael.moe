@@ -5,25 +5,30 @@
       |,4-  ) )-,_. ,\ (  `` -'  / -------------/
      '---''(_/--'  `-'\_)
 ```
+
+```PRE 
 Hi I'm Yael, and this is my cozy space on the internet~ 
 I'm an REDACTED years old girl from Israel ⋆⁺₊⋆ ☾⋆⁺₊⋆
-an avid fan of computers, FOSS, cats, music, anarchist (and sometimes commie) ideals, cybersec and some other things as well.
+an avid fan of computers, FOSS, cats, music, anarchist (and sometimes commie) ideals, cybersec among other things as well.
+```
 
 ## Contact  
+```PRE
 Email:  contact ( at ) yael.moe
 Matrix: @yael:catgirl.cloud
 Github: yael333
-
+```
 
 ## This Space
 This blog is hosted on HTTP/Gemini/Gopher on yael.moe running OpenBSD
 => computers/index.gmi computers 
 
-
 ## Frens
+```PRE
 => https://tzlil.net λ tzlil.net λ
 => https://laevos.com laevos.com
 Write me if you'd like to be added :3 
+```
 
 ```ASCII-BLOCK Books
        .--.                   .---.
