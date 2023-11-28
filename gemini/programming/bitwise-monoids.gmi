@@ -1,22 +1,22 @@
 # Semigroups and Monoids with Haskell: Short Overview
 26/11/23
 
-A big part of my FP intuition and ideals comes from the "Curry–Howard correspondence", the catchphrases "Propositions as Types" and "Proofs as Programs" speaks to my prior experience which mostly falls under comptutational calculi and interest in formal logic. The notion that programming can be founded on concepts from logic is something that speaks volumes to me
-Some people assert this isomorphism has a third sector - a profound relation to Category Theory layed down by the Mathematician Joachim Lambek, extending said equivelence to the "Curry–Howard-Lambek correspondence". Whether or not this holds a fundemetal truth I've yet to learn, but I believe defining and working with *structure* as an abstract is something that is important. So here I am studying Category Theory :3
+A big part of my "Functional Programming" intuition and ideals comes from the "Curry–Howard correspondence", the catchphrases "Propositions as Types" and "Proofs as Programs" speaks to my prior experience which mostly falls under comptutational calculi and interest in formal logic. The notion that programming can be founded on concepts from logic is something that speaks volumes to me
+Some people assert this isomorphism has a third sector - a profound relation to Category Theory layed down by the Mathematician Joachim Lambek, extending said equivelence to the "Curry–Howard-Lambek correspondence". Whether or not this holds a fundemetal truth I've yet to learn, but I believe defining and working with *structure* as an abstract is something that is important and fascinating. So here I am studying Category Theory :3
 
-Dumb tangent aside, this article details my first experimentations with categories in Haskell.
+Dumb tangent aside, this article details my first experimentations with categories in Haskell. This isn't meant to be an introductory post about the matter but just a ramble.
 
 ## Defining Semigroups and Monoids
-Among the first categories that seem relevant to programming are Semigroups and Monoids. Both define an algebraic structure that consists of a set, an associative internal binary operation - Monoids also require for there to be an identity element. 
-Positive integers under addition form a semigroup, include 0 and it becomes a Monoid :3
+Among the first categories that seem relevant to programming are Semigroups and Monoids. Both define an algebraic structure that consists of a set, an associative internal binary operation - Monoids also require for there to be an identity element. At first this seemed very complex but once the terminilogy has been unwrapped it's not complicated at all - I'd reccomend reading the Haskell wikipages [1][2]. 
+Positive integers under addition form a semigroup, include 0 as the identity element and it becomes a Monoid.
 
-Semigroups are defined as a typeclass in Haskell, in order for any dataype a to be a Semigroup we have to satisfy a single Semigroup law: The binary operation <> must be associative
+Semigroups are defined as a typeclass in Haskell, in order for any dataype 'a' to be a Semigroup we have to satisfy a single Semigroup law: The binary operation '<>' must be associative
 
 ```
     (a <> b) <> c == a <> (b <> c)
 ```
 
-Monoids are also defined as a typeclass, but instances of it must obey an additional rule: there exists an identity element `mempty` for which x <> mempty = x and mempty <> x = x.
+Monoids are also defined as a typeclass, but instances of it must obey an additional rule: there exists an identity element 'mempty' for which 'x <> mempty = x' and 'mempty <> x = x'.
 
 ```Haskell code that defines Semigroups and Monoids
 class Semigroup m where
@@ -26,7 +26,7 @@ class Semigroup m where
 class Semigroup m => Monoid m where
   mempty :: m
 ```
-An important Monoid in haskell would be lists under concatention, never knew something so trivial could be really interesting.
+An important Monoid in haskell would be lists under concatention with the empty list as the identity element, never knew something so trivial could be really interesting.
 
 ```Haskell List Concat Monoid
 instance Semigroup [a] where
@@ -36,13 +36,11 @@ instance Monoid [a] where
   mempty = []
 ```
 
-
 ## Data.Bits under Bitwise Operations
-Seeing how essential and common these two structures are for programming I immediately looked for any examples that I'm familiar with ~> the first being bits under several of the bitwise operations. Most programmers have used bitwise AND, OR and XOR before and I personally found it surprising to know they fall under the Semigroup cateegory. To be exact, bitwise AND and OR are actually monoids since there exists an identity element for both of them, you should try figuring it out :3
+Seeing how essential and common these two structures are for programming I immediately looked for any examples that I'm familiar with ~> the first being bits under several of the bitwise operations. Most programmers have used bitwise AND, OR and XOR before and I personally found it surprising (and cool!) to know they fall under the Monoid cateegory. They're all associative binary operations with an identity element , you should try figuring it the identities of these monoids :3
 
 Going through all of that got me excited to represent these operations as these categorical strucutre. Here's the type implementation I came up with:
-
-```Haskell Code that defines Bitwise AND, OR, and XOR as Semigroups and Monoids
+```Haskell Code that defines Bitwise AND, OR, and XOR as Monoids
 {-# LANGUAGE GeneralizedNewtypeDeriving #-}
 
 module Data.Bits.Extra where
@@ -72,12 +70,15 @@ instance (Bits a) => Semigroup (Or a) where
 instance (Bits a) => Monoid (Or a) where
   mempty = Or zeroBits
 
--- | Semigroup under bitwise XOR.
+-- | Monoid under bitwise XOR.
 newtype Xor a = Xor a
   deriving (Eq, Bounded, Enum, Bits, FiniteBits, Show)
 
 instance (Bits a) => Semigroup (Xor a) where
   (Xor x) <> (Xor y) = Xor (x `xor` y)
+
+instance (Bits a) => Monoid (Xor a) where
+  mempty = Xor zeroBits
 ```
 
 Let's try to run this code in the REPL and verify it works
@@ -94,8 +95,8 @@ instance Enum a => Enum (Or a) -- Defined at bitwise.hs:22:26
 instance Eq a => Eq (Or a) -- Defined at bitwise.hs:22:13
 instance FiniteBits a => FiniteBits (Or a)
   -- Defined at bitwise.hs:22:38
-instance Bits a => Monoid (Or a) -- Defined at bitwise.hs:27:10      | These are particularly 
-instance Bits a => Semigroup (Or a) -- Defined at bitwise.hs:24:10   | Important :3
+instance Bits a => Monoid (Or a) -- Defined at bitwise.hs:27:10     | These are particularly 
+instance Bits a => Semigroup (Or a) -- Defined at bitwise.hs:24:10  | Important :3
 instance Show a => Show (Or a) -- Defined at bitwise.hs:22:50
 λ> Or 5
 Or 5
@@ -104,5 +105,20 @@ Or 5
 λ> Or 5 <> Or 3 
 Or 7 
 ```
+Yipee~!
+You can repeat this process on the two other operations and verify the implementation is correct. Furthermore, we're able to compare it to the implemenation found in the Data.Bits package of Haskell~ [3]
 
-Yipee~! I repeated this process on the two other operations and it worked as well. This is really cool, real real cool I mumbled to myself thinking what useful applications this representation has to offer (since it's really just a wrapper). I'm not sure yet But I'm sure at some point of my journey I'll found out~
+## What now?
+ This is really cool, real real cool But the first thing that came to my mind what applications does this have? After all, these are only type wrappers that don't do much besides *show* these are monoids. Coming back to the start of this post, I believe this has to do with structure. By showing these operations share structure we can write abstract code that treats them equivalently allowing to create higher-order design paradigms. Monoid can be treated as the accumulator structure ~> given a running total 'n' we can add in a new value 'a' to get a new running total n' = n <> a. As you might imagine accumulating some value is very common in real life application (sums, products, any chaining operation). This turns even more powerful with a "container" category such as Functors since it allows us guaranteeable properties on the operation we're performing. For example the Foldable structure describes properties of a container that can be reduced to a value of it's internal type by reducing the container using a chainable operation guarnateed by the Monoid structure (!!!!!!).
+```Haskell Code that defines Foldable
+class Functor f => Foldable f where
+    fold    :: Monoid m =>             f m -> m
+    foldMap :: Monoid m => (a -> m) -> f a -> m
+    foldMap g a = fold $ fmap g a
+```
+
+This is really awesome to me, from these abstractions we can derive so many of the operations programs use and maybe find some commonalities between them. Thank you for reading so far and I hope this serves as first of many posts about this kind of stuff.
+
+=> https://wiki.haskell.org/Data.Semigroup [1] HaskellWiki/Semigroup
+=> https://wiki.haskell.org/Monoid [2] HaskellWiki/Monoid
+>= https://hackage.haskell.org/package/base-4.19.0.0/docs/src/Data.Bits.html#And [3] Data.bits implemention
