@@ -9,8 +9,8 @@
 ```PRE 
 Hi I'm Yael, and this is my cozy space on the internet~ 
 I'm an 18 years old girl from REDACTED ⋆⁺₊⋆ ☾⋆⁺₊⋆
-an avid fan of computers, FOSS, cats, music, anarchist (and sometimes commie) ideals, cybersec among
-other things as well.
+an avid fan of computers, FOSS, cats, music and cybersec among other things 
+as well.
 ```
 
 ## Contact  
@@ -29,6 +29,21 @@ This blog is hosted on HTTP/Gemini/Gopher on yael.moe running OpenBSD
 => https://laevos.com laevos.com
 Write me if you'd like to be added :3 
 
+
+```ASCII-BLOCK Flower garden with a poem written next to it: "If I had a flower for each time I thoguht of you, my garden would be full".
+                       `::`
+                        /
+                       `    `;:`
+    _          .;:;          /
+  _(_)_        ::;       wWWWw  ,,,     _
+ (_)@(_),,,  _ ';:;;'    (___) {{{}}  _(_)_
+  /(_) {{{}} >'. ||  _    ~Y~   ~Y~  (_)@(_)   If I had a flower for each time
+  |  {{}~Y~  `> \||.'< (@)\|{}} \|/   /(_)       I thought of you, my garden
+(\|/)~Y~\|/    `>|/ <` \Y/\|~Y~ \|/ (\|/)               would be full...
+ \|//\|/\|//    `||/`  \|/\|\|/\\|//\\|//
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+```
+
 ```ASCII-BLOCK Books
        .--.                   .---.
    .---|__|           .-.     |~~~|
@@ -41,5 +56,4 @@ Write me if you'd like to be added :3
 |  |===|--|   \.'\|===|~|--|%%|~~~|--|
 ^--^---'--^    `-'`---^-^--^--^---'--'
 ```
-
-=> /images/glenda_reading.png they're reading
+=> secret_library.gmi the secret library :0 
