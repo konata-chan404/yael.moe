@@ -20,9 +20,22 @@ Matrix: @yael:catgirl.cloud
 Github: yael333
 ```
 
-## This Space
+## Blog
 This blog is hosted on HTTP/Gemini/Gopher on yael.moe running OpenBSD
 => computers/index.gmi computers 
+
+```ASCII-BLOCK 
+      ....           ....           ....           ....
+     ||             ||             ||             ||
+ /"""l|\        /"""l|\        /"""l|\        /"""l|\
+/_______\      /_______\      /_______\      /_______\
+|  .-.  |------|  .-.  |------|  .-.  |------|  .-.  |------
+ __|L|__| .--. |__|L|__| .--. |__|L|__| .--. |__|L|__| .--.
+_\  \\p__`o-o'__\  \\p__`o-o'__\  \\p__`o-o'__\  \\p__`o-o'_
+------------------------------------------------------------
+------------------------------------------------------------
+```
+
 
 ## Frens
 => https://tzlil.net λ tzlil.net λ
