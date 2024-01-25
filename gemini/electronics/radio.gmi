@@ -1,6 +1,7 @@
 => ./index.gmi [electronics/]
 
-Radio has been mostly an obsession related to secure decenteralized communication, encrypted packet radio and mesh networks. Good excuse to indulge in electronics more as well :3
+Radio has been mostly an obsession related to secure decenteralized communication, encrypted packet radio and mesh networks.
+Good excuse to indulge in electronics more as well :3
 
 => ./radio/noaa-double-pass.gmi 03/01/2024 NOAA-15 & NOA-19 Double Pass 
 => ./radio/haskell-sstv.gmi Haskell and DSP - SSTV / short
