@@ -2,6 +2,8 @@
 => /computers/haskell.gmi [computers/haskell]
 
 # Haskell and DSP - SSTV / short
+16/01/2024
+
 As of late i've been learning both signal processing and functional programming and the combination of both of them seems absolutely fascinating to me. I've been working on an SSTV encoder written in haskell, I'll write more about it later but here's a snippet prototype code.
 I think the functional paradigm lends it self super well due to the high level of composition and potential stream-driven computation. Thinking about how awesome it would be to have higher order functions describe different standards of SSTV makes me go all stimmy (≧∀≦)ゞ
 ```Haskell
