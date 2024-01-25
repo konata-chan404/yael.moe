@@ -20,10 +20,12 @@ Matrix: @yael:catgirl.cloud
 Github: yael333
 ```
 
+
 ## Blog
 This blog is hosted on HTTP/Gemini/Gopher on yael.moe running OpenBSD. 
 => computers/index.gmi computers 
 => electronics/index.gmi electronics
+
 
 ## Frens
 => https://tzlil.net λ tzlil.net λ
