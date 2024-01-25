@@ -1,3 +1,4 @@
 => ./index.gmi [computers/]
 
 => bitwise-monoids.gmi Semigroups and Monoids with Haskell: Short Overview
+=> electronics/radio/haskell-sstv.gmi Haskell and DSP - SSTV / short

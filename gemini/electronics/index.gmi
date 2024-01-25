@@ -1,6 +1,6 @@
 => .. [/]
 Apprentice witch ⛧₊ ⊹
-I hope to get better at analog electronics in particular in (2024)
+I hope to get better at analog electronics in particular this year (2024)
 
 => radio.gmi radio
 => synth.gmi synth

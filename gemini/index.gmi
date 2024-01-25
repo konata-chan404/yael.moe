@@ -7,7 +7,7 @@
 ```
 
 ```PRE 
-Hi I'm Yael, and this is my cozy space on the internet~ 
+Hiii I'm Yael, and this is my cozy space on the internet~ 
 I'm an 18 years old girl from REDACTED ⋆⁺₊⋆ ☾⋆⁺₊⋆
 an avid fan of computers, music, cats, FOSS and cybersec among other things 
 as well.
@@ -20,14 +20,15 @@ Matrix: @yael:catgirl.cloud
 Github: yael333
 ```
 
-
 ## Blog
-This blog is hosted on HTTP/Gemini/Gopher on yael.moe running OpenBSD. 
+This blog is hosted on HTTP/Gemini/Gopher on yael.moe running OpenBSD,
+It contains things I wanna write about or archival of reference links.
+work in progress
 => computers/index.gmi computers 
 => electronics/index.gmi electronics
-
 
 ## Frens
 => https://tzlil.net λ tzlil.net λ
 => https://laevos.com laevos.com
+=> https://anti.moe/~bail anti.moe/~bail 
 Write me if you'd like to be added :3 

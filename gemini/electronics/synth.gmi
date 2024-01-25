@@ -1,1 +1,8 @@
 => ./index.gmi [electronics/]
+Ephemeral beauty ♡♪
+I really love everything to do with synths
+
+=> ./synth/tami-explorations.gmi tami explorations
+
+### Reference
+=> https://musicfromouterspace.com/ musicfromouterspace.com - scifi diy synth heaven

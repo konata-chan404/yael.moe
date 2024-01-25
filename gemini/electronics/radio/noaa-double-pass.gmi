@@ -1,0 +1,9 @@
+=> ../radio.gmi [electronics/radio]
+
+# 03/01/2024 NOAA-15 & NOA-19 Double Pass 
+Very close pass on both satelite on the same day, managed to get some fairly noisy pictures with a simple kit dipole antenna in the middle of the city~
+Will write more when I feel like it.
+
+### Images
+~ Need to add raw data TBD
+=> ./03-01-24-NOAA15.bmp NOAA15 avhrr_3_rgb
