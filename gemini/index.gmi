@@ -21,9 +21,11 @@ Github: yael333
 ```
 
 ## Blog
+```PRE 
 This blog is hosted on HTTP/Gemini/Gopher on yael.moe running OpenBSD,
 It contains things I wanna write about or archival of reference links.
 work in progress
+```
 => computers/index.gmi computers 
 => electronics/index.gmi electronics
 
