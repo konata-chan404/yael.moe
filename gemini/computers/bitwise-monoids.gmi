@@ -28,6 +28,7 @@ class Semigroup m where
 class Semigroup m => Monoid m where
   mempty :: m
 ```
+
 An important Monoid in haskell would be lists under concatention with the empty list as the identity element, never knew something so trivial could be really interesting.
 
 ```Haskell List Concat Monoid
@@ -42,6 +43,7 @@ instance Monoid [a] where
 Seeing how essential and common these two structures are for programming I immediately looked for any examples that I'm familiar with ~> the first being bits under several of the bitwise operations. Most programmers have used bitwise AND, OR and XOR before and I personally found it surprising (and cool!) to know they fall under the Monoid cateegory. They're all associative binary operations with an identity element , you should try figuring it the identities of these monoids :3
 
 Going through all of that got me excited to represent these operations as these categorical strucutre. Here's the type implementation I came up with:
+
 ```Haskell Code that defines Bitwise AND, OR, and XOR as Monoids
 {-# LANGUAGE GeneralizedNewtypeDeriving #-}
 
@@ -112,6 +114,7 @@ You can repeat this process on the two other operations and verify the implement
 
 ## What now?
  This is really cool, real real cool But the first thing that came to my mind what applications does this have? After all, these are only type wrappers that don't do much besides *show* these are monoids. Coming back to the start of this post, I believe this has to do with structure. By showing these operations share structure we can write abstract code that treats them equivalently allowing to create higher-order design paradigms. Monoid can be treated as the accumulator structure ~> given a running total 'n' we can add in a new value 'a' to get a new running total n' = n <> a. As you might imagine accumulating some value is very common in real life application (sums, products, any chaining operation). This turns even more powerful with a "container" category such as Functors since it allows us guaranteeable properties on the operation we're performing. For example the Foldable structure describes properties of a container that can be reduced to a value of it's internal type by reducing the container using a chainable operation guarnateed by the Monoid structure (!!!!!!).
+
 ```Haskell Code that defines Foldable
 class Functor f => Foldable f where
     fold    :: Monoid m =>             f m -> m

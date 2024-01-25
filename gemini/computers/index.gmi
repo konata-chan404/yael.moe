@@ -1,24 +1,5 @@
 => .. [/]
-This is where beep boop happes \(￣︶￣*\))
+This is where beep boop happenss \(￣︶￣*\))
+Mostly interested in software engineering, cybersec and functional programming~
 
-```ASCII-BLOCK Computer
-             ,----------------,              ,---------,
-        ,-----------------------,          ,"        ,"|
-      ,"                      ,"|        ,"        ,"  |
-     +-----------------------+  |      ,"        ,"    |
-     |  .-----------------.  |  |     +---------+      |
-     |  |                 |  |  |     | -==----'|      |
-     |  |  I LOVE DOS!    |  |  |     |         |      |
-     |  |  Bad command or |  |  |/----|`---=    |      |
-     |  |  C:\>_          |  |  |   ,/|==== ooo |      ;
-     |  |                 |  |  |  // |(((( [33]|    ,"
-     |  `-----------------'  |," .;'| |((((     |  ,"
-     +-----------------------+  ;;  | |         |," 
-        /_)______________(_/  //'   | +---------+
-   ___________________________/___  `,
-  /  oooooooooooooooo  .o.  oooo /,   \,"-----------
- / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
-/_==__==========__==_ooo__ooo=_/'   /___________,"
-`-----------------------------'
-```
-=> haskell.gmi Haskell
+=> haskell.gmi haskell

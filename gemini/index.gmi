@@ -9,11 +9,11 @@
 ```PRE 
 Hi I'm Yael, and this is my cozy space on the internet~ 
 I'm an 18 years old girl from REDACTED ⋆⁺₊⋆ ☾⋆⁺₊⋆
-an avid fan of computers, FOSS, cats, music and cybersec among other things 
+an avid fan of computers, music, cats, FOSS and cybersec among other things 
 as well.
 ```
 
-## Contact  
+## Contact
 ```PRE
 Email:  contact ( at ) yael.moe
 Matrix: @yael:catgirl.cloud
@@ -21,68 +21,11 @@ Github: yael333
 ```
 
 ## Blog
-This blog is hosted on HTTP/Gemini/Gopher on yael.moe running OpenBSD
+This blog is hosted on HTTP/Gemini/Gopher on yael.moe running OpenBSD. 
 => computers/index.gmi computers 
-
-```ASCII-BLOCK 
-          .
-        ('
-        '|
-        |'
-       [::]
-       [::]   _......_
-       [::].-'      _.-`.
-       [:.'    .-. '-._.-`.
-       [/ /\   |  \        `-..
-       / / |   `-.'      .-.   `-.
-      /  `-'            (   `.    `.
-     |           /\      `-._/      \
-     '    .'\   /  `.           _.-'|
-    /    /  /   \_.-'        _.':;:/
-  .'     \_/             _.-':;_.-'
- /   .-.             _.-' \;.-'
-/   (   \       _..-'     |
-\    `._/  _..-'    .--.  |
- `-.....-'/  _ _  .'    '.|
-          | |_|_| |      | \  (o)
-     (o)  | |_|_| |      | | (\'/)
-    (\'/)/  ''''' |     o|  \;:;
-     :;  |        |      |  |/)
-      ;: `-.._    /__..--'\.' ;:
-          :;  `--' :;   :;
-```
-
+=> electronics/index.gmi electronics
 
 ## Frens
 => https://tzlil.net λ tzlil.net λ
 => https://laevos.com laevos.com
 Write me if you'd like to be added :3 
-
-
-```ASCII-BLOCK Flower garden with a poem written next to it: "If I had a flower for each time I thoguht of you, my garden would be full".
-                       `::`
-                        /
-                       `    `;:`
-    _          .;:;          /
-  _(_)_        ::;       wWWWw  ,,,     _
- (_)@(_),,,  _ ';:;;'    (___) {{{}}  _(_)_
-  /(_) {{{}} >'. ||  _    ~Y~   ~Y~  (_)@(_)   If I had a flower for each time
-  |  {{}~Y~  `> \||.'< (@)\|{}} \|/   /(_)       I thought of you, my garden
-(\|/)~Y~\|/    `>|/ <` \Y/\|~Y~ \|/ (\|/)               would be full...
- \|//\|/\|//    `||/`  \|/\|\|/\\|//\\|//
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-```
-
-```ASCII-BLOCK Books
-       .--.                   .---.
-   .---|__|           .-.     |~~~|
-.--|===|--|_          |_|     |~~~|--.
-|  |===|  |'\     .---!~|  .--|   |--|
-|%%|   |  |.'\    |===| |--|%%|   |  |
-|%%|   |  |\.'\   |   | |__|  |   |  |
-|  |   |  | \  \  |===| |==|  |   |  |
-|  |   |__|  \.'\ |   |_|__|  |~~~|__|
-|  |===|--|   \.'\|===|~|--|%%|~~~|--|
-^--^---'--^    `-'`---^-^--^--^---'--'
-```
-=> secret_library.gmi the secret library :0 
