@@ -8,8 +8,8 @@
 
 ```PRE 
 Hiii I'm Yael, and this is my cozy space on the internet~ 
-I'm an 18 years old girl from REDACTED ⋆⁺₊⋆ ☾⋆⁺₊⋆
-an avid fan of computers, music, cats, FOSS and cybersec among other things 
+I'm an 19 years old girl from REDACTED ⋆⁺₊⋆ ☾⋆⁺₊⋆
+an avid fan of computers, music, cats, radio, FOSS and cybersec among other things 
 as well.
 ```
 
@@ -22,15 +22,14 @@ Github: yael333
 
 ## Blog
 ```PRE 
-This blog is hosted on HTTP/Gemini/Gopher on yael.moe running OpenBSD,
+This blog is hosted on HTTP/Gemini on yael.moe running OpenBSD,
 It contains things I wanna write about or archival of reference links.
-work in progress
 ```
 => computers/index.gmi computers 
 => electronics/index.gmi electronics
 
 ## Frens
 => https://tzlil.net λ tzlil λ
+=> https://giuji.cyou/ ~giuji
 => https://laevos.com ~laevos
-=> https://anti.moe/~bail ~bail 
-Write me if you'd like to be added :3 
+=> https://anti.moe/~bail ~bail

@@ -8,4 +8,4 @@ Will write more when I feel like it.
 
 ### Images
 ~ Need to add raw data TBD
-=> ./03-01-24-NOAA15.bmp NOAA15 avhrr_3_rgb
+=> ./03-01-24-NOAA15.png NOAA15 avhrr_3_rgb

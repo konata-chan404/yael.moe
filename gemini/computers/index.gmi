@@ -1,5 +1,5 @@
 => .. [/]
 This is where beep boop happenss \(￣︶￣*\))
-Mostly interested in software engineering, cybersec and functional programming~
+Functional programming, LISP, unix, punch cards, cybersec~
 
 => haskell.gmi haskell

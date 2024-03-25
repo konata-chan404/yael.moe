@@ -1,3 +1,3 @@
 => ../synth.gmi [electronics/synth]
 
-=> ./555-sharkfin.bmp weird sharkfin oscilator with 555 :3
+=> ./555-sharkfin.png weird sharkfin oscilator with 555 :3
