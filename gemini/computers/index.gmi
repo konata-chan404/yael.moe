@@ -3,3 +3,4 @@ This is where beep boop happenss \(￣︶￣*\))
 Functional programming, LISP, unix, punch cards, cybersec~
 
 => haskell.gmi haskell
+=> cybersec.gmi cybersec

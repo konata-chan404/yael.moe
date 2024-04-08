@@ -1,0 +1,3 @@
+=> ../index.gmi [computers/]
+
+=> ./memsafety.gmi Google CTF 2021 - Memsafety
