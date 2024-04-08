@@ -1,0 +1,7 @@
+=> ../synth.gmi [electronics/synth]
+
+### Reference
+=> https://www.diystompboxes.com www.diystompboxes.com
+=> https://aronnelson.com/diywiki/index.php/Main_Page diystompboxes wiki page
+=> https://diy-fever.com/ diy-fever.com
+=> https://generalguitargadgets.com generalguitargadgets.com

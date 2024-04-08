@@ -3,6 +3,7 @@ Ephemeral beauty ♡♪
 I really love everything to do with synths
 
 => ./synth/tami-explorations.gmi tami explorations
+=> ./synth/guitar-pedal.gmi diy guitar pedals
 
 ### Reference
 => https://musicfromouterspace.com/ musicfromouterspace.com - scifi diy synth heaven
