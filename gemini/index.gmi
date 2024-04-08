@@ -10,7 +10,7 @@
 Hiii I'm Yael, and this is my cozy space on the internet~ 
 I'm an 19 years old girl from REDACTED ⋆⁺₊⋆ ☾⋆⁺₊⋆
 an avid fan of computers, music, cats, radio, FOSS and cybersec among other things 
-as well.
+as well. Lambda witch of sorts.
 ```
 
 ## Contact
@@ -22,13 +22,13 @@ Github: yael333
 
 ## Blog
 ```PRE 
-This blog is hosted on HTTP/Gemini on yael.moe running OpenBSD,
+This blog is bi-hosted on HTTP/Gemini on yael.moe running OpenBSD,
 It contains things I wanna write about or archival of reference links.
 ```
 => computers/index.gmi computers 
 => electronics/index.gmi electronics
 
-## Frens
+## Friends
 => https://tzlil.net λ tzlil λ
 => https://giuji.cyou/ ~giuji
 => https://laevos.com ~laevos
