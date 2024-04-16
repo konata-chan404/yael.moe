@@ -1,4 +1,4 @@
-=> ./computing.gmi [computing/]
+=> ./computing.gmi [digital electronics/]
 
 # Asynchronous Circuits
 
