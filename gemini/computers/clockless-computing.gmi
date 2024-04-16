@@ -1,0 +1,21 @@
+=> ./computing.gmi [computing/]
+
+```ASCII-BLOCK
+    |\__/,|   (`\
+  _.|o o  |_   ) )
+-(((---(((--------
+```
+
+=> https://backend.orbit.dtu.dk/ws/portalfiles/portal/215895041/JSPA_async_book_2020_PDF.pdf Jens Sparsø, Introduction to Asynchronous Circuit Design (seems to be the bible of this field so far~)
+=> https://www.cs.columbia.edu/~nowick/nowick-singh-async-IEEE-DT-15-overview-article-pt1.pdf Asynchronous Design - Part 1: Overview and Recent Advances
+=> https://www.cs.columbia.edu/~nowick/nowick-singh-async-IEEE-DT-15-overview-article-pt2.pdf Asynchronous Design - Part 2: Systems and Methodologies
+=> https://inst.eecs.berkeley.edu/~cs150/sp09/Lecture/lec29-async.pdf Berkeley Lecture Clockless Circuits
+=> https://apt.cs.manchester.ac.uk/ftp/pub/apt/www/async/async_desc.html The Return of Asynchronous Logic
+=> https://jics.org.br/ojs/index.php/JICS/article/view/677  Asynchronous Circuit Principles and a Survey of Associated Design Tools
+=> https://files.catbox.moe/6m6d3i.pdf A Designer's Guide to Asynchronous VLSI
+=> https://avlsi.csl.yale.edu/publications.php Yale Asynchronous VLSI and Architecture Publications
+=> https://avlsi.csl.yale.edu/act/doku.php?id=summer2022:start ASYNC 2022 Summer School Presentations
+=> https://www.researchgate.net/publication/335648750_Towards_a_Complete_Methodology_for_Synthesizing_Bundled-Data_Asynchronous_Circuits_on_FPGAs Towards a Complete Methodology for Synthesizing Bundled-Data Asynchronous Circuits on FPGAs
+=> https://dspace5.zcu.cz/bitstream/11025/35432/1/Pfeifer2.pdf On Implementation and Usage of Muller C-element in FPGA-based Dependable Systems
+=> https://www.reddit.com/r/FPGA/comments/13p38pr/fully_asynchronous_logic_on_fpga/ Fully Asynchronous Logic on FPGA Reddit Thread
+=> https://github.com/jrmoserbaltimore/risc-v-cpu-asynchronous/tree/master/RISC-V.srcs/asynchronous/cpu An Asynchronous RISC-V CPU Implementation in VHDL
