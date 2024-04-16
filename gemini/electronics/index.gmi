@@ -1,7 +1,6 @@
 => .. [/]
 Apprentice witch ⛧₊ ⊹
-I hope to get better at electronics in particular this year (2024)
 
-=> ../computers/computing.gmi computing
+=> ../computers/computing.gmi digital electronics
 => radio.gmi radio
 => synth.gmi synth

@@ -1,5 +1,7 @@
 => ./computing.gmi [computing/]
 
+# Asynchronous Circuits
+
 ```ASCII-BLOCK
     |\__/,|   (`\
   _.|o o  |_   ) )
