@@ -2,7 +2,7 @@
 
 # SECD Machine
 
-```ASCII-Block
+```ASCII-BLOCK
                     .-'~~~-.
                      .'o  oOOOo`.
                     :~~~-.oOo   o`.
