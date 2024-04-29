@@ -23,7 +23,7 @@ _______\|/__________\\;_\\//___\|/________
 => https://arxiv.org/pdf/0811.3231 A Rational Deconstruction of Landin's SECD Machine With The J Operator
 => https://www.cs.utexas.edu/users/boyer/ftp/nqthm/trsecd/trsecd.html The Tail Recursive SECD Machine
 => https://www.cambridge.org/core/services/aop-cambridge-core/content/view/29F2716CAC0EFCEEC02A3DF9D1FD2250/S0956796804005386a.pdf/lambda-and-pi-calculi-cam-and-secd-machines.pdf Lambda and pi calculi, CAM and SECD machines
-=> https://www.semanticscholar.org/paper/Executing-an-SECD-machine-using-logic-programming-Slonneger/49695d3cbf0d03e8ab28a738108271993b5ac05eExecuting an SECD machine using logic programming
+=> https://www.semanticscholar.org/paper/Executing-an-SECD-machine-using-logic-programming-Slonneger/49695d3cbf0d03e8ab28a738108271993b5ac05e an SECD machine using logic programming
 => https://webdocs.cs.ualberta.ca/~rgreiner/C-325/2004/325/2004/Slides/HandoutPDF/SECD-1x2.pdf SECD Notes from UAlberta CMPUT 325
 => https://secd-machine.netlify.app/ SECD Machine web implementation from Ualberta's CMPUT 325
 => https://github.com/zehnpaard/secd-ocaml SECD Machine and S-expression Compiler in OCaml  
