@@ -1,5 +1,5 @@
 => /electronics/radio.gmi [electronics/radio]
-=> /computers/haskell.gmi [computers/haskell]
+=> /computers/functional-programming.gmi [computers/functional programming]
 
 # Haskell and DSP - SSTV / short
 16/01/2024

@@ -1,0 +1,30 @@
+=> ./functional-programming.gmi [functional programming/]
+
+# SECD Machine
+
+```ASCII-Block
+                    .-'~~~-.
+                     .'o  oOOOo`.
+                    :~~~-.oOo   o`.
+                     `. \ ~-.  oOOo.
+                       `.; / ~.  OO:
+                       .'  ;-- `.o.'
+                      ,'  ; ~~--'~
+                      ;  ;
+_______\|/__________\\;_\\//___\|/________
+```
+
+=> https://pqnelson.github.io/org-notes/comp-sci/abstract-machines/secd.html SECD Machine Overview
+=> https://homepage.divms.uiowa.edu/~slonnegr/plf/Lecture08.pdf SECD: An Abstract Machine Operational Semantics
+=> https://pages.cpsc.ucalgary.ca/~robin/class/521/lectures_lambda/secd.pdf Modern SECD Machine
+=> https://skelet.ludost.net/sec/ SECD Mania Archive
+=> https://rachel.cafe/2021/12/10/secd.html Rachel's look at SECD machines
+=> https://www.elizas.website/seax/implementation/secd.html The SECD Abstract Machine Architecture
+=> https://arxiv.org/pdf/0811.3231 A Rational Deconstruction of Landin's SECD Machine With The J Operator
+=> https://www.cs.utexas.edu/users/boyer/ftp/nqthm/trsecd/trsecd.html The Tail Recursive SECD Machine
+=> https://www.cambridge.org/core/services/aop-cambridge-core/content/view/29F2716CAC0EFCEEC02A3DF9D1FD2250/S0956796804005386a.pdf/lambda-and-pi-calculi-cam-and-secd-machines.pdf Lambda and pi calculi, CAM and SECD machines
+=> https://www.semanticscholar.org/paper/Executing-an-SECD-machine-using-logic-programming-Slonneger/49695d3cbf0d03e8ab28a738108271993b5ac05eExecuting an SECD machine using logic programming
+=> https://webdocs.cs.ualberta.ca/~rgreiner/C-325/2004/325/2004/Slides/HandoutPDF/SECD-1x2.pdf SECD Notes from UAlberta CMPUT 325
+=> https://secd-machine.netlify.app/ SECD Machine web implementation from Ualberta's CMPUT 325
+=> https://github.com/zehnpaard/secd-ocaml SECD Machine and S-expression Compiler in OCaml  
+=> https://github.com/zachallaun/secd Zachallaun's Clojure implementation of an SECD Machine

@@ -1,0 +1,16 @@
+=> ./index.gmi [computers/]
+
+```ASCII-BLOCK
+   λω-------λΠω
+   /|      /|
+  / |     / |
+λ2--|---λΠ2 |
+ | λω----|--λΠω
+ | /     | /
+ |/      |/
+λ→-------λΠ
+```
+
+=> bitwise-monoids.gmi Semigroups and Monoids with Haskell: Short Overview
+=> /electronics/radio/haskell-sstv.gmi Haskell and DSP - SSTV / short
+=> secd-machine.gmi SECD Machine

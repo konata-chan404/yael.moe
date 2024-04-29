@@ -8,9 +8,9 @@
 
 ```PRE 
 Hiii I'm Yael, and this is my cozy space on the internet~ 
-I'm an 19 years old girl from REDACTED ⋆⁺₊⋆ ☾⋆⁺₊⋆
-an avid fan of computers, music, cats, radio, FOSS and cybersec among other things 
-as well. Lambda witch.
+19 years old lesbian ⋆⁺₊⋆ ☾⋆⁺₊⋆
+an avid fan of computers, weird music, cats, radio, FOSS and cybersec among other things 
+as well. Lambda witch of sorts.
 ```
 
 ## Contact
@@ -28,7 +28,7 @@ It contains things I wanna write about or archival of reference links.
 => electronics/index.gmi electronics
 
 ## Friends
-=> https://tzlil.net λ tzlil λ
+=> https://tzlil.net λ tzlil
 => https://giuji.cyou/ ~giuji
 => https://laevos.com ~laevos
 => https://anti.moe/~bail ~bail

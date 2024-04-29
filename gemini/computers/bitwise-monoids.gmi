@@ -1,4 +1,4 @@
-=> haskell.gmi [computers/haskell]
+=> functional-programming.gmi [computers/functional programming]
 
 # Semigroups and Monoids with Haskell: Short Overview
 26/11/23
