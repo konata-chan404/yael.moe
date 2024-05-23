@@ -26,9 +26,3 @@ It contains things I wanna write about or archival of reference links.
 ```
 => computers/index.gmi computers 
 => electronics/index.gmi electronics
-
-## Friends
-=> https://tzlil.net λ tzlil
-=> https://giuji.cyou/ ~giuji
-=> https://laevos.com ~laevos
-=> https://anti.moe/~bail ~bail
