@@ -26,5 +26,6 @@ _______\|/__________\\;_\\//___\|/________
 => https://www.semanticscholar.org/paper/Executing-an-SECD-machine-using-logic-programming-Slonneger/49695d3cbf0d03e8ab28a738108271993b5ac05e an SECD machine using logic programming
 => https://webdocs.cs.ualberta.ca/~rgreiner/C-325/2004/325/2004/Slides/HandoutPDF/SECD-1x2.pdf SECD Notes from UAlberta CMPUT 325
 => https://secd-machine.netlify.app/ SECD Machine web implementation from Ualberta's CMPUT 325
-=> https://github.com/zehnpaard/secd-ocaml SECD Machine and S-expression Compiler in OCaml  
+=> https://github.com/zehnpaard/secd-ocaml SECD Machine and S-expression Compiler in OCaml
+=> https://github.com/AshleyF/Lispkit/blob/master/Program.fs Concise F# implementation of an SECD Machine   
 => https://github.com/zachallaun/secd Zachallaun's Clojure implementation of an SECD Machine
